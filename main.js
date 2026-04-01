@@ -54,7 +54,7 @@ export function main(inputNumber, inputNumberSystem, outputNumberSystem) {
  * @returns {Array<number>}
  */
 export function permittedInputSystems() {
-    return [10, 2];
+    return [2];
 }
 
 /**
@@ -62,5 +62,5 @@ export function permittedInputSystems() {
  * @returns {Array<number>}
  */
 export function permittedOutputSystems() {
-    return [10, 2];
+    return [10];
 }
